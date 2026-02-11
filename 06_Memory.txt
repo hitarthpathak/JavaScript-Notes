@@ -1,3 +1,5 @@
+JavaScript stores Memory in RAM (Random Access Memory).
+
 Memory is divided into 2 categories :-
 
 1. Stack Memory (stores Primitive Datatypes) (gets copy)
