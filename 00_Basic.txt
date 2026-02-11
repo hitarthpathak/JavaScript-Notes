@@ -1,0 +1,51 @@
+JAVASCRIPT :-
+1. JavaScript is Dynamically-Typed. Variable do not have Types, Values have Types. A Variable can have a Value of any Type.
+2. JavaScript is Synchronous (runs line-by-line and can block Execution) and Single-Threaded (one Call Stack, i.e., runs one thing at a time) by default,
+but it can perform Asynchronous operations (without blocking Execution) by using - Event Loops, Callbacks, Promises and async / await.
+
+
+CONSOLE SHORTCUTS :-
+1. clg
+2. log
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+NAMING CNVENTIONS :-
+1. camelCase
+2. PascalCase
+3. snake_case
+4. SCREAMING_SNAKE_CASE
+5. kebab-case
+6. flatcase
+7. Train-Case
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+COMMENT TYPES :-
+1. Single-Line -
+// This is a Single-Line Comment.
+
+2. Multi-Line Comment -
+/*
+This is a Multi-Line Comment.
+This is a Multi-Line Comment.
+This is a Multi-Line Comment.
+*/
+
+3. In-Line Comment -
+let x = 5; // This is an In-Line Comment.
+
+4. Documentation Comment - (Structured Multi-Line Comment Meant For Documentation)
+/**
+* Point 1
+* Point 2
+* Point 3
+*/

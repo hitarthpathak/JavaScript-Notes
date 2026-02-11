@@ -1,0 +1,51 @@
+Datatypes are divided in 2 categories based on how they are Stored and Accessed from Memeory.
+
+
+PRIMITIVE DATATYPES :-
+1. String
+2. Number
+3. Boolean
+4. Null
+5. Undefined
+6. Symbol
+7. BigInt
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+NON-PRIMITIVE DATATYPES :-
+1. Object
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+Built-In Object Types / Data Structure Object Types :-
+1. Array
+2. Function
+3. Date
+4. RegExp (Regular Expression)
+5. Map
+6. Set
+7. Error
+8. Math
+9. JSON (JavaScript Object Notation)
+10. Promise
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+NOTE :-
+1. In JavaScript, everything is an Object except for Primitive Datatypes.
+2. Primitive Datatypes are Im-Mutable (cannot be changed).
+3. Non-primitive Datatypes are Mutable (can be changed).
+4. null is a Primitive Datatype, but typeof null returns "object". It is a historical bug that can't be fixed now.
+5. Primitive Datatype are stored by Values, while Non-Primitive Datatype are stored by References.

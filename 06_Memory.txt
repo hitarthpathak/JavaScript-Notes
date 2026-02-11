@@ -1,0 +1,4 @@
+Memory is divided into 2 categories :-
+
+1. Stack Memory (stores Primitive Datatypes) (gets copy)
+2. Heap Memory (stored Non-Primitive Datatypes) (gets reference, i.e., original value)
