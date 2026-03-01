@@ -42,6 +42,12 @@
 
 // null vs undefined -
 
+console.log(!null); // true (null is falsy value, i.e., it converts to false in boolean context)
+console.log(!!null); // false (double negation converts to boolean and then negates it, i.e., it converts to true and then negates it to false)
+
+console.log(!undefined); // true (undefined is falsy value, i.e., it converts to false in boolean context)
+console.log(!!undefined); // false (double negation converts to boolean and then negates it, i.e., it converts to true and then negates it to false)
+
 console.log(null == undefined); // true
 console.log(null === undefined); // false
 console.log(null != undefined); // false
