@@ -42,61 +42,61 @@
 
 // null vs undefined -
 
-console.log(null); // null
-console.log(!null); // true
-console.log(!!null); // false
+console.log(null); // "null"
+console.log(!null); // "true"
+console.log(!!null); // "false"
 
-console.log(undefined); // undefined
-console.log(!undefined); // true
-console.log(!!undefined); // false
+console.log(undefined); // "undefined"
+console.log(!undefined); // "true"
+console.log(!!undefined); // "false"
 
-console.log(null == undefined); // true
-console.log(null === undefined); // false
-console.log(null != undefined); // false
-console.log(null !== undefined); // true
-console.log(null > undefined); // false
-console.log(null < undefined); // false
-console.log(null >= undefined); // false
-console.log(null <= undefined); // false
+console.log(null == undefined); // "true"
+console.log(null === undefined); // "false"
+console.log(null != undefined); // "false"
+console.log(null !== undefined); // "true"
+console.log(null > undefined); // "false"
+console.log(null < undefined); // "false"
+console.log(null >= undefined); // "false"
+console.log(null <= undefined); // "false"
 
 
 // with 0 -
 
-console.log(null == 0); // false
-console.log(null === 0); // false
-console.log(null != 0); // true
-console.log(null !== 0); // true
-console.log(null > 0); // false
-console.log(null < 0); // false
-console.log(null >= 0); // true (null converted to 0)
-console.log(null <= 0); // true (null converted to 0)
+console.log(null == 0); // "false"
+console.log(null === 0); // "false"
+console.log(null != 0); // "true"
+console.log(null !== 0); // "true"
+console.log(null > 0); // "false"
+console.log(null < 0); // "false"
+console.log(null >= 0); // "true" (null converted to 0)
+console.log(null <= 0); // "true" (null converted to 0)
 
-console.log(undefined == 0); // false
-console.log(undefined === 0); // false
-console.log(undefined != 0); // true
-console.log(undefined !== 0); // true
-console.log(undefined > 0); // false
-console.log(undefined < 0); // false
-console.log(undefined >= 0); // false
-console.log(undefined <= 0); // false
+console.log(undefined == 0); // "false"
+console.log(undefined === 0); // "false"
+console.log(undefined != 0); // "true"
+console.log(undefined !== 0); // "true"
+console.log(undefined > 0); // "false"
+console.log(undefined < 0); // "false"
+console.log(undefined >= 0); // "false"
+console.log(undefined <= 0); // "false"
 
-console.log(Infinity == 0); // false
-console.log(Infinity === 0); // false
-console.log(Infinity != 0); // true
-console.log(Infinity !== 0); // true
-console.log(Infinity > 0); // true
-console.log(Infinity < 0); // false
-console.log(Infinity >= 0); // true
-console.log(Infinity <= 0); // false
+console.log(Infinity == 0); // "false"
+console.log(Infinity === 0); // "false"
+console.log(Infinity != 0); // "true"
+console.log(Infinity !== 0); // "true"
+console.log(Infinity > 0); // "true"
+console.log(Infinity < 0); // "false"
+console.log(Infinity >= 0); // "true"
+console.log(Infinity <= 0); // "false"
 
-console.log(NaN == 0); // false
-console.log(NaN === 0); // false
-console.log(NaN != 0); // true
-console.log(NaN !== 0); // true
-console.log(NaN > 0); // false
-console.log(NaN < 0); // false
-console.log(NaN >= 0); // false
-console.log(NaN <= 0); // false
+console.log(NaN == 0); // "false"
+console.log(NaN === 0); // "false"
+console.log(NaN != 0); // "true"
+console.log(NaN !== 0); // "true"
+console.log(NaN > 0); // "false"
+console.log(NaN < 0); // "false"
+console.log(NaN >= 0); // "false"
+console.log(NaN <= 0); // "false"
 
 
 
