@@ -21,6 +21,8 @@ console.log(typeof new_name); // "object"
 console.log(name.length); // "7"
 
 // .concat() - [method] - joins two or more strings
+console.log(name.concat(new_name)); // "HitarthNew Hitarth"
+// OR
 console.log(name + new_name); // "HitarthNew Hitarth"
 console.log(name + " " + new_name); // "Hitarth New Hitarth"
 console.log("Hello " + name); // "Hello Hitarth"

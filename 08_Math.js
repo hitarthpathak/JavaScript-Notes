@@ -51,10 +51,10 @@ console.log(Math.floor(2)); // "2"
 console.log(Math.floor(2.0)); // "2"
 console.log(Math.floor(2.1)); // "2"
 
-// .max() - return the maximum vallue in a set of numbers
+// .max() - return the maximum value in a set of numbers
 console.log(Math.max(1, 2, 3, 4, 5)); // "5"
 
-// .min() - return the minimum vallue in a set of numbers
+// .min() - return the minimum value in a set of numbers
 console.log(Math.min(1, 2, 3, 4, 5)); // "1"
 
 // .random() - return a random number between 0 (inclusive) and 1 (exclusive)
