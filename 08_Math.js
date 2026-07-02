@@ -6,7 +6,7 @@ console.log(Math); // Object [Math] {}
 
 
 
-// Math Properties :-
+// MATH PROPERTIES :-
 
 // .PI - return the value of PI
 console.log(Math.PI); // "3.141592653589793"
@@ -17,7 +17,7 @@ console.log(Math.PI); // "3.141592653589793"
 
 
 
-// Math Methods :-
+// MATH METHODS :-
 
 // .abs() - return the absolute (positive) value
 console.log(Math.abs(3)); // "3"
