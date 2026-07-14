@@ -18,7 +18,7 @@ console.log(current_time); // "1782913964468" (current timestamp in milliseconds
 
 
 
-// DATE METHODS :-
+// DATE & TIME METHODS :-
 
 console.log(current_date.getDate()); // "1" (returns the day of the month (from 1-31))
 console.log(current_date.getDay()); // "3" (returns the day of the week (from 0-6) - 0: Sunday, 1: Monday, 2: Tuesday, 3: Wednesday, 4: Thursday, 5: Friday, 6: Saturday)

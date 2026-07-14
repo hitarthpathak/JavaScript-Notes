@@ -27,7 +27,7 @@ console.log(name + new_name); // "HitarthNew Hitarth"
 console.log(name + " " + new_name); // "Hitarth New Hitarth"
 console.log("Hello " + name); // "Hello Hitarth"
 
-// .repeat() - [ method] - repeat the string with a specific number of copies
+// .repeat() - [method] - repeat the string with a specific number of copies
 console.log(name.repeat(3)); // "HitarthHitarthHitarth"
 
 // .split() - [method] - convert string to array
